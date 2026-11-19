@@ -1,0 +1,7 @@
+# Konfigurasi lokal rahasia
+.env
+api/config.local.php
+
+# File editor / sistem
+.DS_Store
+Thumbs.db
